@@ -3,6 +3,7 @@
 - `ep3.ipynb`: Bell Basis
 - `ep4.ipynb`: Statevector & Matrix Visualization
 - `ep5.ipynb`: Quantum Teleportation
+- `ep6.ipynb`: Bernstein-Vazirani Algorithm
 
 YouTube Series Link: https://www.youtube.com/watch?v=a1NZC5rqQD8&list=PLOFEBzvs-Vvp2xg9-POLJhQwtVktlYGbY
 
